@@ -1,1 +1,3 @@
-my first git file fsf fewfw
+my first git file fsf fewfw 
+
+hi welcome to the python automation
